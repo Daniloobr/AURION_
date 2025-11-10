@@ -94,31 +94,26 @@ AURION_/
 └── aurion.db          # Banco de dados (criado automaticamente)
 
 ```
+## 🌟 Próximos Passos Inspirados no Dia a Dia
 
-🌟 Próximos Passos Inspirados no Dia a Dia
 Estou desenvolvendo as próximas funcionalidades baseado no que o Miguel e outros pequenos empresários me pediram:
 
-🔹 Módulo de Vendas: Fechar vendas rapidamente e registrar o histórico.
+* **🔹 Módulo de Vendas:** Fechar vendas rapidamente e registrar o histórico.
+* **🔹 Relatórios Automáticos:** Exportação de PDF com um clique para o contador.
+* **🔹 Login de Usuários:** Para times que crescem e precisam de controle de acesso.
+* **🔹 Instalador .exe:** Para quem não é técnico, basta baixar e rodar.
 
-🔹 Relatórios Automáticos: Exportação de PDF com um clique para o contador.
+---
 
-🔹 Login de Usuários: Para times que crescem e precisam de controle de acesso.
+## 👨‍💻 Do Desenvolvedor com Carinho
 
-🔹 Instalador .exe: Para quem não é técnico, basta baixar e rodar.
+**Danilo Araujo**
 
-👨‍💻 Do Desenvolvedor com Carinho
-Danilo Araujo
+* **📍 Minha Missão:** Transformar problemas reais em soluções práticas através do código.
+* **💡 Acredito que:** Tecnologia deve simplificar, não complicar a vida das pessoas.
+* **🎯 Especialidade:** Criar sistemas que realmente fazem diferença no dia a dia.
 
-📍 Minha Missão: Transformar problemas reais em soluções práticas através do código.
+> "Se esse projeto ajudou você como ajudou o Miguel, minha missão está cumprida."
 
-💡 Acredito que: Tecnologia deve simplificar, não complicar a vida das pessoas.
-
-🎯 Especialidade: Criar sistemas que realmente fazem diferença no dia a dia.
-
-"Se esse projeto ajudou você como ajudou o Miguel, minha missão está cumprida."
-
-📧 Vamos conversar? | LinkedIn | You
-
-
-
-🔹 Instalador .exe: Para quem não é técnico, basta baixar e rodar.
+**📧 Vamos conversar?**
+| [LinkedIn](LINK_DO_SEU_LINKEDIN) | [YouTube](LINK_DO_SEU_YOUTUBE) | [GitHub](LINK_DO_SEU_GITHUB) |
