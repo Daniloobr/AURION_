@@ -1,1 +1,44 @@
-backups
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# --- SQLite ---
+*.db
+*.sqlite3
+aurion.db
+
+# --- Ambientes virtuais ---
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- IDEs ---
+# VSCode
+.vscode/
+# PyCharm
+.idea/
+# Jupyter (caso use)
+.ipynb_checkpoints/
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Build e distribuição ---
+build/
+dist/
+*.egg-info/
+*.spec
+
+# --- Backups ---
+backups/
