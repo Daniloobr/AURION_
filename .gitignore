@@ -43,5 +43,8 @@ dist/
 # --- Backups ---
 backups/
 # Ignorar banco de dados
+# Ignorar banco de dados
 aurion.DB
+aurion.db
 *.db
+**/backups/
